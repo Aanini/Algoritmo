@@ -1,0 +1,4 @@
+body {
+    background-image: url('descarga.gif'); /* Cambia 'ruta/de/tu/animacion.gif' por la ruta de tu GIF animado */
+    background-repeat: repeat; /* Hace que el fondo se repita en ambas direcciones */
+}
